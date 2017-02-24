@@ -4,8 +4,8 @@ title: ChrisLichter
 permalink: /about/
 ---
 
-#Chris Lichter
-##About
+Chris Lichter
+`About
 Dynamic full-stack web developer capable of both frontend and backend development, extensive experience with system infrastructure analysis, and experience with dev ops.
 
 
