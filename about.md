@@ -4,21 +4,18 @@ title: ChrisLichter
 permalink: /about/
 ---
 
-    About
+About
 
 Dynamic full-stack web developer capable of both frontend and backend development, extensive experience with system infrastructure analysis, and experience with dev ops.
 
 
-##SKILLS
+SKILLS
 - Programming Languages: Python, Javascript, HTML, CSS, Java, C#, and SQL
 - Frameworks: jQuery, Dojo, YUI, Bootstrap, AngularJS
 - Version Control Systems: Git, Subversion, TFS
 - Databases: Microsoft SQL, Oracle, PostgreSQL, SQLite, MySQL
 - Operating Systems: Windows, OSX, Linux (Ubuntu, Arch, RedHat, CentOS, and Suse)
 - Applicable Software: Google App Engine, VirtualBox, Vagrant, AWS, and Team Foundations
-
-{% include icon-github.html username="lichtec" %} /
-[lichtec](https://github.com/lichtec/)
 
 ##EXPERIENCE
 SE2,  Topeka, KS —  Programmer Analyst
@@ -61,3 +58,6 @@ Design a Game  —  Python, Google App Engine, API Design - https://github.com/l
 Linux Server Configuration  —  SSH, Linux, Apache, PostgreSQL, Python - https://udacity-github-sync-content.s3.amazonaws.com/_submissions/271 282_5sv2s.zip
 
     Installed and configured all required software to turn a baseline Ubuntu Amazon Web Services server into a fully functional web application server, including Apache Web Server and PostgreSQL database server.
+    
+{% include icon-github.html username="lichtec" %} /
+[lichtec](https://github.com/lichtec/)
